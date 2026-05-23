@@ -11,7 +11,6 @@ O **Maratona Java Virado no Jiraya** é considerado o curso de Java em portuguê
 - 🎥 **Playlist PT-BR:** [Assistir no YouTube](https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
 - 🌐 **Playlist EN:** [Java One For All](https://www.youtube.com/watch?v=GXt46-Npz0Y&list=PL0Un1HNdB4jGKw5szJrQETqJTlZKyKReu)
 - 👨‍💻 **Criado por:** [William Suane](https://www.linkedin.com/in/williamsuane/)
-- ✂️ **Edição:** [Wildnei Suane](https://www.linkedin.com/in/wildneisuane/)
 - 📁 **Repositório oficial:** [devdojobr/maratona-java-virado-no-jiraya](https://github.com/devdojobr/maratona-java-virado-no-jiraya)
 
 ---
